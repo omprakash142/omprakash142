@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Om Prakash Kumar</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW40Mm9qdWE2bzM5bnI0cWlpanRlaXY0bGl0bGV2ODM1bjRrZDEwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash142&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash142" /> </p>
+
+- 🌱 I’m currently learning **java Script, HTML, DBMS, Cloud Computing with AWS**
+
+- 📫 How to reach me **omprakashkumar.bcroy2022@gmail.com**
+
+- ⚡ Fun fact **I Think I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/om prakash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om prakash kumar" height="30" width="40" /></a>
