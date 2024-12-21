@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW40Mm9qdWE2bzM5bnI0cWlpanRlaXY0bGl0bGV2ODM1bjRrZDEwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash142&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash142" /> </p>
 
-- 🌱 I’m currently learning **java Script, HTML, DBMS, Cloud Computing with AWS**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **omprakashkumar.bcroy2022@gmail.com**
 
